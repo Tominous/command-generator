@@ -1,0 +1,239 @@
+.bookPage{
+	border-radius: 10px;
+	padding-left:5px;
+	padding-top:5px;
+	border:solid black 1px;
+	width:530px;
+}
+
+.bookSection{
+	margin-top:5px;
+}
+
+#mainControls{
+	display:block;
+	border: solid #000 1px;
+	width:1200px;
+	overflow:hidden;
+	padding-top:3px;
+	padding-bottom:3px;
+	margin-bottom:2px;
+}
+
+#detailsPane{
+	padding-top:4px;
+
+}
+#management {
+	
+}
+.charsLeft{
+	float:right;
+}
+
+#comments{
+	max-height:300px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	display: inline-block;
+	vertical-align: top;
+	width:1190px;
+	padding:5px;
+	border-top: solid 1px black;
+}
+
+#commentControls{
+	vertical-align: top;
+	width:1180px;
+	padding:5px;
+}
+
+#commentPane{
+	vertical-align: top;
+	width:100%;
+	padding:5px;
+}
+.commentLine{
+	display: inline-block;
+	width:100%;
+	margin-bottom:10px;
+	border-top: solid 1px #999;
+	border-left: solid 1px #999;
+}
+.commentDetails{
+	width:70;
+	padding-left:10px;
+	vertical-align: top;
+	float:left;
+}
+
+.commentText{
+	width:1000px;
+	padding-left:10px;
+	vertical-align: top;
+	float:left;
+}
+
+#like{
+	padding-left:10px;
+}
+.navButton{
+	border-radius: 10px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-right:5px;
+	font-size:12pt;
+	color:#00f;
+	background-color:#ddd;
+	border:solid black 2px;
+	font-weight:bold;
+	font-family:"Arial",sans-serif;
+}
+
+.copy2MCStackerNet{
+	border-radius: 10px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-right:5px;
+	font-size:12pt;
+	color:#f15a24;
+	background-color:#fff;
+	border:solid black 2px;
+	font-weight:bold;
+	font-family:"Arial",sans-serif;
+}
+
+.mButton{
+	margin:2px;
+	border-radius: 5px;
+	padding-left:5px;
+	padding-right:5px;
+	font-size:10pt;
+	color:#000;
+	background-color:#fff;
+	border:solid black 2px;
+	font-weight:bold;
+	font-family:"Arial",sans-serif;
+}
+
+.pageButton{
+	margin:2px;
+	border-radius: 5px;
+	padding-left:4px;
+	padding-right:4px;
+	font-size:10pt;
+	border:solid black 2px;
+	font-weight:bold;
+	font-family:"Arial",sans-serif;
+	color:#000;
+	background-color:#fff;
+}
+.pageButtonSelected{
+	margin:2px;
+	border-radius: 5px;
+	padding-left:4px;
+	padding-right:4px;
+	font-size:10pt;
+	border:solid black 2px;
+	font-weight:bold;
+	font-family:"Arial",sans-serif;
+	color:#fff;
+	background-color:#000;
+}
+
+
+.fLeft{
+	float:left;
+}
+.fRight{
+	float:right;
+}
+
+
+.tagWord{
+	font-family:"Arial",sans-serif;
+}
+
+.settingsLabel{
+	display:  inline-block; 
+	width:150px;
+	text-align:right;
+	font-weight:bold;
+	
+}
+.search{
+	display:  inline-block; 
+	width:100px;
+	text-align:right;
+	font-weight:bold;
+	padding-left:10px;
+}
+
+table.searchResults{
+	width:100%;
+	font-family:'Arial', 'Helvetica', 'sans-serif';
+	font-size:10pt;
+	border-collapse: collapse;
+}
+
+table.searchResults tr.srRowDark{
+	background-color:#BBB;
+}
+
+table.searchResults tr.srRowLight{
+	background-color:#DDD;
+}
+
+
+table.searchResults td,th{
+	text-align:left;
+	
+}
+
+
+.details{
+	display:  inline-block; 
+	text-align:right;
+	font-weight:bold;
+	padding-right:10px;
+}
+p.settings{
+	padding-left:20px;
+}
+h2{
+	padding-left:20px;
+}
+
+p.command{
+	padding-left:10px;
+}
+.help{
+	margin-left:100px;
+	margin-right:100px;
+}
+
+h2.help{
+	margin-left:80px;
+}
+
+h2.command{
+	padding-left:10px;
+}
+
+#manPane{
+	display:block;
+	border: solid #000 1px;
+	width:1200px;
+	overflow:hidden;
+	padding-top:3px;
+	margin-bottom:2px;
+}
+#manPane th{
+	font-size:10pt;
+}
+
+A{text-decoration:none;}
+#message{
+	color:#f00;
+	padding-left:200px;
+}

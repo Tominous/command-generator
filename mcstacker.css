@@ -1,0 +1,273 @@
+body{
+	font-family:'Arial', 'Helvetica', 'sans-serif';
+	font-size:10pt;
+	padding:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#eee;
+	
+}
+.langFlag{
+	position:relative;
+	top:-4px;
+	
+}
+#feedback{
+	color:red;
+}
+
+td.armorStand{
+	font-family:'Arial', 'Helvetica', 'sans-serif';
+	font-size:10pt;
+	padding-left:20px;
+	padding-right:20px;
+	vertical-align:top;
+	text-align:center;
+}
+
+td.changeLog{
+	font-family:'Arial', 'Helvetica', 'sans-serif';
+	font-size:10pt;
+	padding-left:20px;
+	padding-right:20px;
+	vertical-align:top;
+}
+
+#inputForm{
+	display:block;
+	border:solid #000 1px;
+	width:1200px;
+	overflow:hidden;
+	padding-top:3px;
+	margin-bottom:2px;
+}
+.summonDiv{
+	display:block;
+	border:solid #000 1px;
+	width:1200px;
+	margin-bottom:2px;
+}
+
+#summonCommand{
+	width:1190px;
+	height:100px;
+}
+#summonCommand2{
+	width:1190px;
+	height:100px;
+}
+#allContent{
+	width:1470px;
+	height:600px;
+	position:relative;
+	padding:0px;
+	margin-left: auto;
+	margin-top: 40px;
+    margin-right: auto;
+	display:block;
+}
+
+#leftContent{
+	float:left;
+	width:1200px;
+}
+#rightContent{
+	margin-left:10px;
+	width:200px;
+	float:left;
+	text-align:center;
+}
+.EntityOptions {
+	display:block;
+	border-top: solid #000 1px;
+	width:1200px;
+	overflow:hidden;
+	padding-top:3px;
+	margin-bottom:2px;
+}
+
+#spawnerOptions{
+	display:block;
+	border-top: solid #000 1px;
+	width:1200px;
+	overflow:hidden;
+	padding-top:3px;
+	margin-bottom:1px;
+}
+
+.inputBig{
+	width:150px;
+}
+
+.inputForBooks{
+	width:250px;
+}
+.inputVeryBig{
+	width:450px;
+}
+
+.inputSmall{
+	width:50px;
+}
+.inputTiny{
+	width:30px;
+}
+.equipmentLabel{
+	display: inline-block;
+	width:70px;
+	font-weight:bold;
+	padding-bottom:11px;
+	text-align:right;
+}
+.equipmentLabelLong{
+	display: inline-block;
+	width:80px;
+	font-weight:bold;
+	padding-bottom:11px;
+	text-align:right;
+}
+
+.entityLabel{
+	display: inline-block;
+	font-weight:bold;
+	width:100px;
+	border:none;
+	text-align:right;
+}
+
+.entityLabelBig{
+	display: inline-block;
+	font-weight:bold;
+	width:170px;
+	padding-bottom:11px;
+	text-align:right;
+	border:none;
+}
+.enchantsDiv{
+	/*margin-left:100px; */
+	margin-left:10px;
+}
+textarea{
+	width:100%;
+	height:50px;
+}
+
+#xmlEdit{
+	width:100%;
+	height:200px;
+}
+#xmlEditor{
+	padding:11px;
+}
+
+
+.leftDivAndControls{
+	float:left;
+}
+
+.entityOrdering{
+	width:499px;
+}
+.leftDiv{
+	width:499px;
+}
+.rightDiv{
+	float:left;
+	width:570px;
+}
+
+.leftPan{
+	display: inline-block;
+	vertical-align: top;
+	width:500px;
+}
+
+.rightPan{
+	display: inline-block;
+	vertical-align: top;
+	width:700px;
+}
+
+
+#leftNews{
+	display: inline-block;
+	vertical-align: top;
+	width:590px;
+	padding:5px;
+}
+#about{
+	display: inline-block;
+	vertical-align: top;
+	padding:5px;
+}
+#about img{
+	padding-right:5px;
+}
+#rightNews{
+	height:700px;
+	overflow: scroll;
+	display: inline-block;
+	vertical-align: top;
+	width:590px;
+	padding:5px;
+}
+
+
+.enchantCheckBox{
+	display: inline-block;
+	width:150px;
+}
+
+.enchantLevel{
+	display: inline-block;
+	width:200px;
+}
+
+.cbStatusEffects{
+	margin-left:20px;
+}
+.label{
+	font-weight:bold;
+	padding-left:20px;
+}
+.fwColFade{
+	display: inline-block;
+	font-weight:bold;
+	width:40px;
+}
+
+.effectLabel{
+	display: inline-block;
+	width:135px;
+}
+.statusEffects{
+	width:500px;
+}
+
+.statusEffectsOptions{
+	margin-left:20px;
+}
+
+.villagerOffer{
+	border: solid black 1px;
+}
+
+table.poseTable{
+		border-collapse: collapse;
+		font-size:10pt;
+}
+
+table.poseTable th{
+	text-align:center;
+	
+}
+.colField{
+	width:60px;
+}
+/*
+img{
+ vertical-align: middle;
+ padding-left:3px;
+ }*/
